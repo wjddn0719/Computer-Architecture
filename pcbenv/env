@@ -1,0 +1,32 @@
+source $TELENV
+
+### User Preferences section
+### This section is computer generated.
+### Please do not modify to the end of the file.
+### Place your hand edits above this section.
+###
+
+set new_units = millimeters
+set allegro_new_units = millimeters
+set padstack_editor_new_units = millimeters
+set artwork_undef_line_width = 0.2
+
+set new_accuracy = 4
+set padstack_editor_new_accuracy = 4
+set allegro_new_accuracy = 4
+
+set artpath=$artpath $ALLEGRO_SITE/artwork_setting
+set ncdpath=$ncdpath $ALLEGRO_SITE/artwork_setting
+
+set ads_sdart = ARTWORK
+
+set allegro_long_name_size = 255
+set autosave_time = 10
+set autosave
+set nolast_directory
+set nolast_file
+
+funckey r 'iangle -90'
+funckey Esc 'cancel'
+
+alias ~E 'shell explorer .'

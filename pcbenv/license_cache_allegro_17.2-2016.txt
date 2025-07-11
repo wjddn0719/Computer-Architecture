@@ -1,0 +1,16 @@
+# SoftShare license cache file. Do not modify; automatically generated.
+# Improves tool startup performance.
+orcad_pcb_expert_suite		NO
+OrCAD_Signal_Explorer		YES
+orcad_expert_suite		NO
+Allegro_FPGA_System_2FPGA		NO
+orcad_ee_expert_suite		NO
+orcad_partner_fae_suite		NO
+Allegro_FPGA_System_Planner_XL		NO
+OrCAD_PCB_Designer		NO
+orcad_pcb_productivity		NO
+Allegro_FPGA_System_Plan_GXL		NO
+orcad_sigrity_erc		NO
+OrCAD_PCB_Editor_Basics		NO
+OrCAD_PCB_Designer_PSpice		YES
+Allegro_PCB_Productivity_TB		NO

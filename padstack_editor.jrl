@@ -1,0 +1,100 @@
+\t (00:00:00) padstack_editor 17.2 S083 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Mon Jun 26 10:58:31 2023
+\t (00:00:00)         Host=ST09 User=PC Pid=2996 CPUs=16
+\t (00:00:00) CmdLine= C:\Cadence\SPB_17.2\tools\bin\padstack_editor.exe
+\t (00:00:00) 
+\d (00:00:01) QtSignal MainWindow New triggered
+\d (00:00:04) QtSignal fileNewDialog dataCombo CurrentIndexChanged Via
+\d (00:00:04) QtSignal fileNewDialog browse clicked
+\d (00:00:45) QtFillin C:/Users/PC/Desktop/A103/via..pad
+\d (00:00:46) QtSignal fileNewDialog dirPath editingFinished via
+\d (00:00:46) QtSignal fileNewDialog OK clicked
+\d (00:00:49) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:01:06) QtSignal GuidedDrillTab holeXSize editingFinished 0.3000
+\d (00:01:06) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:01:09) QtSignal GuidedDrillSymbol FigureType CurrentIndexChanged Circle
+\d (00:01:11) QtSignal GuidedDrillSymbol FigureDiameter editingFinished 0.3000
+\d (00:01:12) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:01:13) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:01:14) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Regular Pad" 0 2
+\d (00:01:14) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Regular Pad" 0 2
+\d (00:01:22) QtSignal GuidedDesignLayersTab PadDiameter editingFinished 0.6000
+\d (00:01:22) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged
+\d (00:01:23) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Regular Pad"
+\d (00:01:23) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Regular Pad" 0 2
+\d (00:01:23) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:01:23) QtSignal 1
+\d (00:01:24) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 67 67108864 false 1 +
+\d (00:01:24) QtSignal 
+\d (00:01:24) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 1 "Regular Pad"
+\d (00:01:24) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Regular Pad" 1 2
+\d (00:01:25) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:01:25) QtSignal 1
+\d (00:01:25) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 86 67108864 false 1 +
+\d (00:01:25) QtSignal 
+\d (00:01:25) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 2 "Regular Pad"
+\d (00:01:25) QtSignal GuidedDesignLayersTab LayersTable cellClicked 2 "Regular Pad" 2 2
+\d (00:01:25) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:01:25) QtSignal 1
+\d (00:01:25) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 86 67108864 false 1 +
+\d (00:01:25) QtSignal 
+\d (00:01:26) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:01:27) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:01:27) QtSignal 1
+\d (00:01:27) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 86 67108864 false 1 
+\d (00:01:27) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 1 Pad
+\d (00:01:27) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 Pad 1 1
+\d (00:01:28) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:01:28) QtSignal 1
+\d (00:01:28) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 86 67108864 false 1 
+\d (00:01:29) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged
+\d (00:01:29) QtSignal MainWindow Save triggered
+\w (00:01:29) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\d (00:01:32) QtSignal MainWindow New triggered
+\d (00:01:40) QtSignal fileNewDialog dirPath editingFinished via_power
+\d (00:01:42) QtSignal fileNewDialog dataCombo CurrentIndexChanged Via
+\d (00:01:42) QtSignal fileNewDialog OK clicked
+\d (00:01:44) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:01:48) QtFillin OK
+\d (00:01:48) QtSignal GuidedTabsParent GuidedDrillTab keyPressEvent 16777221 536870912 false 1 +
+\d (00:01:48) QtSignal 
+\d (00:01:52) QtSignal GuidedDrillTab holeXSize editingFinished 0.4000
+\d (00:01:52) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:01:52) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:01:58) QtSignal GuidedDrillSymbol FigureDiameter editingFinished 0.4000
+\d (00:01:58) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:02:00) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Regular Pad" 0 2
+\d (00:02:00) QtSignal GuidedDesignLayersTab LayersTable cellDoubleClicked 0 "Regular Pad" 0 2
+\d (00:02:00) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Regular Pad" 0 2
+\d (00:02:03) QtSignal GuidedDesignLayersTab PadDiameter editingFinished 0.8000
+\d (00:02:03) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Regular Pad" 0 2
+\d (00:02:03) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:02:03) QtSignal 1
+\d (00:02:04) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 67 67108864 false 1 +
+\d (00:02:04) QtSignal 
+\d (00:02:04) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 1 "Regular Pad"
+\d (00:02:04) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Regular Pad" 1 2
+\d (00:02:04) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:02:04) QtSignal 1
+\d (00:02:04) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 86 67108864 false 1 +
+\d (00:02:04) QtSignal 
+\d (00:02:05) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 2 "Regular Pad"
+\d (00:02:05) QtSignal GuidedDesignLayersTab LayersTable cellClicked 2 "Regular Pad" 2 2
+\d (00:02:05) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:02:05) QtSignal 1
+\d (00:02:05) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 86 67108864 false 1 +
+\d (00:02:05) QtSignal 
+\d (00:02:05) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:02:06) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:02:06) QtSignal 1
+\d (00:02:06) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:02:06) QtSignal 1
+\d (00:02:06) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 86 67108864 false 1 
+\d (00:02:07) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 1 Pad
+\d (00:02:07) QtSignal GuidedMaskLayersTab LayersTable cellClicked 1 Pad 1 1
+\d (00:02:07) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:02:07) QtSignal 1
+\d (00:02:07) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 86 67108864 false 1 
+\d (00:02:08) QtSignal MainWindow Save triggered
+\w (00:02:08) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\t (00:02:11)     Journal end - Mon Jun 26 11:00:43 2023
